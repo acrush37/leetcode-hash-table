@@ -8,5 +8,6 @@ Hash Table
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](src/easy/LongestHarmoniousSubsequence.java)|Easy|
 |394|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](src/easy/IntersectionOfTwoArrays.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](src/easy/FindTheDifference.java)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](src/easy/IntersectionOfTwoArraysII.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](src/easy/ValidAnagram.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](src/easy/SingleNumber.java)|Easy|
