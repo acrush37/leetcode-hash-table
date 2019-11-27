@@ -5,6 +5,7 @@ Hash Table
 |---| ----- | -------- | ---------- |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/easy/UniqueNumberOfOccurrences.java)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/easy/OccurrencesAfterBigram.java)|Easy|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](src/easy/NRepeatedElementInSize2NArray.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Java](src/easy/JewelsAndStones.java)|Easy|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](src/easy/DesignHashMap.java)|Easy|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](src/easy/DesignHashSet.java)|Easy|
