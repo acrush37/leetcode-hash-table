@@ -13,6 +13,7 @@ Hash Table
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](src/easy/DesignHashSet.java)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Java](src/easy/MinimumIndexSumOfTwoLists.java)|Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](src/easy/LongestHarmoniousSubsequence.java)|Easy|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](src/easy/DistributeCandies.java)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Java](src/easy/LongestPalindrome.java)|Easy|
 |394|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](src/easy/IntersectionOfTwoArrays.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](src/easy/FindTheDifference.java)|Easy|
