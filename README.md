@@ -16,4 +16,5 @@ Hash Table
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](src/easy/FindTheDifference.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](src/easy/IntersectionOfTwoArraysII.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](src/easy/ValidAnagram.java)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](src/easy/IsomorphicStrings.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](src/easy/SingleNumber.java)|Easy|
