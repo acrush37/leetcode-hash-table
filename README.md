@@ -3,6 +3,7 @@ Hash Table
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](src/medium/FindAllAnagramsInString.java)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/easy/UniqueNumberOfOccurrences.java)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/easy/OccurrencesAfterBigram.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](src/easy/NRepeatedElementInSize2NArray.java)|Easy|
