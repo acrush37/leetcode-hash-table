@@ -25,6 +25,7 @@ Hash Table
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Java](src/easy/SubdomainVisitCount.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Java](src/easy/JewelsAndStones.java)|Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Java](src/easy/ShortestCompletingWord.java)|Easy|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Java](src/easy/LongestWordInDictionary.java)|Easy|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](src/easy/DesignHashMap.java)|Easy|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](src/easy/DesignHashSet.java)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Java](src/easy/MinimumIndexSumOfTwoLists.java)|Easy|
