@@ -6,6 +6,7 @@ Hash Table
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](src/medium/DailyTemperatures.java)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](src/medium/TopKFrequentWords.java)|Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Java](src/medium/ReplaceWords.java)|Medium|
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Java](src/medium/BrickWall.java)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Java](src/medium/EncodeAndDecodeTinyURL.java)|Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Java](src/medium/FourSumII.java)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](src/medium/SortCharactersByFrequency.java)|Medium|
