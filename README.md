@@ -7,6 +7,7 @@ Hash Table
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Java](src/medium/ReplaceWords.java)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](src/medium/SortCharactersByFrequency.java)|Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](src/medium/FindAllAnagramsInString.java)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](src/medium/TopKFrequentElements.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](src/medium/BinaryTreeInorderTraversal.java)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/easy/UniqueNumberOfOccurrences.java)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/easy/OccurrencesAfterBigram.java)|Easy|
