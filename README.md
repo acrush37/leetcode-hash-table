@@ -37,6 +37,7 @@ Hash Table
 |394|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](src/easy/IntersectionOfTwoArrays.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](src/easy/FindTheDifference.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](src/easy/IntersectionOfTwoArraysII.java)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](src/easy/BullsAndCows.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](src/easy/WordPattern.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](src/easy/ValidAnagram.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](src/easy/IsomorphicStrings.java)|Easy|
