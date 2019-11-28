@@ -4,6 +4,7 @@ Hash Table
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](src/medium/VerticalOrderTraversalOfBinaryTree.java)|Medium|
+|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](src/medium/PrisonCellsAfterNDays.java)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](src/medium/DailyTemperatures.java)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](src/medium/TopKFrequentWords.java)|Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Java](src/medium/ReplaceWords.java)|Medium|
