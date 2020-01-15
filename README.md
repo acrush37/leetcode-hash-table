@@ -20,6 +20,7 @@ Hash Table
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](src/medium/HIndex.java)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](src/medium/RepeatedDNASequences.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](src/medium/BinaryTreeInorderTraversal.java)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](src/medium/ValidSudoku.java)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/easy/UniqueNumberOfOccurrences.java)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Java](src/easy/OccurrencesAfterBigram.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](src/easy/NRepeatedElementInSize2NArray.java)|Easy|
