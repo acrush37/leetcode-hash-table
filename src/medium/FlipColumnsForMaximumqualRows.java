@@ -1,6 +1,7 @@
 package medium;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 /*
@@ -35,13 +36,12 @@ public class FlipColumnsForMaximumqualRows {
             }
 
             String c = a.toString(), d = b.toString();
-            int p = t.getOrDefault(c, 0);
-            int q = t.getOrDefault(d, 0);
-            t.put(c, ++p);
-            t.put(d, ++q);
-            result = Math.max(result, Math.max(p, q));
+            t.put(c, 1 + t.getOrDefault(c, 0));
+            t.put(d, 1 + t.getOrDefault(d, 0));
         }
 
+        Iterator<Integer> it= t.values().iterator();
+        while (it.hasNext()) result = Math.max(result, it.next());
         return result;
     }
 
