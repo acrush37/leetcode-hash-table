@@ -4,6 +4,7 @@ Hash Table
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Java](src/hard/MaximumEqualFrequency.java)|Hard|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](src/hard/MaximumFrequencyStack.java)|Hard|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](src/medium/VerticalOrderTraversalOfBinaryTree.java)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/medium/TimeBasedKeyValueStore.java)|Medium|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](src/medium/PrisonCellsAfterNDays.java)|Medium|
