@@ -9,6 +9,7 @@ Hash Table
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](src/medium/VerticalOrderTraversalOfBinaryTree.java)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/medium/TimeBasedKeyValueStore.java)|Medium|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Java](src/medium/PrisonCellsAfterNDays.java)|Medium|
+|939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[Java](src/medium/MinimumAreaRectangle.java)|Medium|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Java](src/medium/BinarySubarraysWithSum.java)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](src/medium/DailyTemperatures.java)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](src/medium/TopKFrequentWords.java)|Medium|
