@@ -23,6 +23,7 @@ Hash Table
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](src/medium/TopKFrequentElements.java)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](src/medium/HIndex.java)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](src/medium/RepeatedDNASequences.java)|Medium|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Java](src/medium/FractionRecurringDecimal.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](src/medium/BinaryTreeInorderTraversal.java)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](src/medium/ValidSudoku.java)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](src/easy/UniqueNumberOfOccurrences.java)|Easy|
