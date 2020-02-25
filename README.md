@@ -5,6 +5,7 @@ Hash Table
 |---| ----- | -------- | ---------- |
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Java](src/hard/MaximumEqualFrequency.java)|Hard|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](src/hard/MaximumFrequencyStack.java)|Hard|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java](src/hard/SubstringWithConcatenationOfAllWords.java)|Hard|
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|[Java](src/medium/FlipColumnsForMaximumqualRows.java)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](src/medium/VerticalOrderTraversalOfBinaryTree.java)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/medium/TimeBasedKeyValueStore.java)|Medium|
